@@ -18,9 +18,9 @@ A Next.js e-commerce storefront supporting dynamic shopping carts, CSV-based cat
 ---
 
 ## ✨ Key Features
-- ⚡ **CSV catalog parsing and mass product importing with PapaParse**: CSV catalog parsing and mass product importing with PapaParse
-- ⚡ **Interactive cart drawer with instant subtotal calculation**: Interactive cart drawer with instant subtotal calculation
-- ⚡ **Fluid UI transitions powered by Framer Motion**: Fluid UI transitions powered by Framer Motion
+- CSV catalog parsing and mass product importing with PapaParse
+- Interactive cart drawer with instant subtotal calculation
+- Fluid UI transitions powered by Framer Motion
 
 ---
 
