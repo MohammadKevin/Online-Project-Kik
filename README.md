@@ -12,19 +12,19 @@
 
 ---
 
-## 📌 Overview
+## Overview
 A Next.js e-commerce storefront supporting dynamic shopping carts, CSV-based catalog importing with PapaParse, and interactive product galleries.
 
 ---
 
-## ✨ Key Features
+## Key Features
 - CSV catalog parsing and mass product importing with PapaParse
 - Interactive cart drawer with instant subtotal calculation
 - Fluid UI transitions powered by Framer Motion
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Framework**: Next.js
 - **Language**: TypeScript
 - **Parser**: PapaParse
@@ -32,7 +32,7 @@ A Next.js e-commerce storefront supporting dynamic shopping carts, CSV-based cat
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```text
 Online-Project-Kik/
 ├── app/                # Cart & Dashboard pages
@@ -42,7 +42,7 @@ Online-Project-Kik/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Make sure you have the required runtimes and tools installed on your machine:
@@ -59,7 +59,7 @@ npm run dev
 
 ---
 
-## 👤 Author
+## Author
 **Mohammad Kevin Arif Rudianto**
 - **GitHub:** [@MohammadKevin](https://github.com/MohammadKevin)
 - **Portfolio:** [portfolio-mohammadkevin.vercel.app](https://portfolio-mohammadkevin.vercel.app)
@@ -68,9 +68,9 @@ npm run dev
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 <div align="center">
-⭐️ If you found this repository useful, please consider giving it a star!
+If you found this repository useful, please consider giving it a star!
 </div>
